@@ -1,4 +1,4 @@
-FROM arm32v7/alpine:3.9
+FROM alpine:3.7
 
 LABEL maintainer="docker@upshift.fr"
 
